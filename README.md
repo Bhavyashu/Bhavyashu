@@ -9,14 +9,13 @@
 ### - III year undergrad at Keshav Memorial Institute Of Technology (Grad. 2024)
 ### - Computer Science Student
 ### - looking for opportunities to work as a Software Developer Intern
-### - Interests include Scalability, Maintainability, Customer-Facing Products and Open-Source Contribution
+### - Interests include Full Stack Development, Back End Development, Cloud, DevOps, Contributing to Open Source Projects  
 
 ## 👨‍💻 Languages and Tools
 <p>
   <img width="55%" align="right" alt="Bhavyashu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Bhavyashu&count_private=true&show_icons=true&theme=tokyonight" />
 
- <!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code> -->
+ 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -26,13 +25,14 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
   
   <br />
-  <!--<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>-->
-  
-<!--   <br />
-  
+<!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <br /> -->
+  <br /> --> -->
+  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
@@ -40,7 +40,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<!--   <code><img width="10%" src="https://www.vectorlogo.zone/logos/hasuraio/hasuraio-ar21.svg"></code> -->
+
 </p>
 
 ## 👀 Active Repo
