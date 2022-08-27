@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Languages and Tools
 <p>
-  <img width="55%" align="right" alt="Jeremy's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JeremyTsaii&count_private=true&show_icons=true&theme=tokyonight" />
+  <img width="55%" align="right" alt="Bhavyashu's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Bhavyashu&count_private=true&show_icons=true&theme=tokyonight" />
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
