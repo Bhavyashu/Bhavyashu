@@ -4,6 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyashu/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:the.bhavyashu@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-leetcode-black?style=flat&logo=leetcode&logocolor=#fff)](https://leetcode.com/bhavyashu/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/bhavyashu)
+
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
