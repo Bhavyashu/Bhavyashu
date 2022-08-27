@@ -7,7 +7,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/bhavyashu)
 
 
-<img width="55%" align="right" alt="Github" src="[https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=1060&t=st=1661627876~exp=1661628476~hmac=62071dc36483ec67aba8b9e801bf89aa5ddefd93f647b9fd3acdc8753c27445a)" />
+<!-- <img width="55%" align="right" alt="Github" src="[https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?w=1060&t=st=1661627876~exp=1661628476~hmac=62071dc36483ec67aba8b9e801bf89aa5ddefd93f647b9fd3acdc8753c27445a)" /> -->
 
 ### - III year undergrad at Keshav Memorial Institute Of Technology (Grad. 2024)
 ### - Computer Science Student
