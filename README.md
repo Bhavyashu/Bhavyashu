@@ -1,14 +1,14 @@
-# Hello World, I'm Jeremy 👋
+# Hello World, I'm Bhavyashu 👋
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JeremyTsaii)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeremytsaii)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jeremytsai331@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Bhavyashu)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyashu/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:the.bhavyashu@gmail.com)
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### - Senior at Harvey Mudd College (Grad. 2022)
+### - III year undergrad at Keshav Memorial Institute Of Technology (Grad. 2024)
 ### - Computer Science Student
-### - Software Engineering Intern @ Facebook
+### - looking for opportunities to work as a Software Developer Intern
 ### - Interests include Scalability, Maintainability, Customer-Facing Products and Open-Source Contribution
 
 ## 👨‍💻 Languages and Tools
