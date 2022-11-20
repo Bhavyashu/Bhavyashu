@@ -48,7 +48,8 @@
 
 ## Competetive Programming and Solving DSA
 
-[![bhavyashu's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=bhavyashu&theme=dark)](https://github.com/JeremyTsaii/leetcode-stats)
+[![bhavyashu's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=bhavyashu&theme=dark)]
+<!-- (https://github.com/JeremyTsaii/leetcode-stats) -->
 
 <!-- ## 👀 Active Repo
 
